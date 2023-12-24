@@ -1,2 +1,2 @@
 # Assembly-Tribonacci-Recursive
-Recursive  Tribonacci Algorithm in RISC V Assembly
+Recursive  Tribonacci Algorithm in RISC-V Assembly
